@@ -1,0 +1,2 @@
+//use the following command to run the app  
+CHOKIDAR_USEPOLLING=1 npm start
